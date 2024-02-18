@@ -1,7 +1,9 @@
 
 Experienced in Software development for 10+ years. Currently working as a fullstack blockchain developer.<br/>
-<a href="https://github.com/infinite0731/infinite0731/">Web3 Projects Overview</a>
+
+<a href="https://github.com/infinite0731/Web3-Project-Overview">Web3 Projects Overview</a>
 <br/>
+
 Deliver customer's superior quality product because your success is also mine.<br/>
 Always pursue something new and challengeable...<br/>
 
